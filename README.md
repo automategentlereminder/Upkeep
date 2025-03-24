@@ -13,3 +13,8 @@ A simple yet powerful task-tracking app that helps you monitor progress, break r
 - Random motivational messages for encouragement
 - Smooth and intuitive UI with React Native & Expo
 
+## Installation 🔧
+
+https://expo.dev/accounts/gentlereminder/projects/UpKeep/builds/6837e532-3837-4e71-bd98-e6c9aa619741
+
+
